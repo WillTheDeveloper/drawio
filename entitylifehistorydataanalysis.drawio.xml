@@ -1,1 +1,262 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T11:53:35.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.5" etag="qjk2Dp7DQXvsNNfn722h" type="github"><diagram id="EuJNv6XLbKAtbIrAbZBc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-06T19:35:13.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.147 Safari/537.36" etag="u1x6ZS8y_VMdvkwpucsb" version="17.5.0" type="github">
+  <diagram id="EuJNv6XLbKAtbIrAbZBc" name="Page-1">
+    <mxGraphModel dx="1387" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-1" target="ScBxc4SeYSQp0Hf2yZiQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-1" target="ScBxc4SeYSQp0Hf2yZiQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-1" target="ScBxc4SeYSQp0Hf2yZiQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-1" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-2" target="ScBxc4SeYSQp0Hf2yZiQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-2" target="ScBxc4SeYSQp0Hf2yZiQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-2" value="Register account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-3" value="Create new user record in DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-6" target="ScBxc4SeYSQp0Hf2yZiQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-6" target="ScBxc4SeYSQp0Hf2yZiQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-6" value="Update their details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-8" value="Update query to database matching the user ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-10" target="ScBxc4SeYSQp0Hf2yZiQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-10" value="Request to delete their account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-14" value="Delete and truncate any data with matching user ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-16" target="ScBxc4SeYSQp0Hf2yZiQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-16" target="ScBxc4SeYSQp0Hf2yZiQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-16" target="ScBxc4SeYSQp0Hf2yZiQ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-16" target="ScBxc4SeYSQp0Hf2yZiQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-16" value="Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-17" target="ScBxc4SeYSQp0Hf2yZiQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-17" value="User creates account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-18" target="ScBxc4SeYSQp0Hf2yZiQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-18" target="ScBxc4SeYSQp0Hf2yZiQ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-18" target="ScBxc4SeYSQp0Hf2yZiQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-18" value="User can add an address to their account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-22" value="Insert data into address table with user ID relation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-24" value="Update address details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-25" target="ScBxc4SeYSQp0Hf2yZiQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-25" value="Delete entire address record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-30" value="Delete and truncate any data with related user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-32" target="ScBxc4SeYSQp0Hf2yZiQ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-32" value="Booking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-33" target="ScBxc4SeYSQp0Hf2yZiQ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-33" value="User creates their account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-35" target="ScBxc4SeYSQp0Hf2yZiQ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-35" value="A class is created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-36" target="ScBxc4SeYSQp0Hf2yZiQ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-36" target="ScBxc4SeYSQp0Hf2yZiQ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-36" value="User makes a booking for selected class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-39" target="ScBxc4SeYSQp0Hf2yZiQ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-39" value="User can cancel the booking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-41" value="New database record is created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-43" value="Booking record is deleted from table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-45" target="ScBxc4SeYSQp0Hf2yZiQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-45" value="Centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-46" target="ScBxc4SeYSQp0Hf2yZiQ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-46" value="Centre is added to database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-47" target="ScBxc4SeYSQp0Hf2yZiQ-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-47" value="Centre information is updated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-50" target="ScBxc4SeYSQp0Hf2yZiQ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-50" value="The record of the selected centre is deleted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-52" value="Truncate all other data that is associated with this centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-54" target="ScBxc4SeYSQp0Hf2yZiQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-54" value="Bookings can be made to the centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-56" target="ScBxc4SeYSQp0Hf2yZiQ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-56" value="Instructor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-57" target="ScBxc4SeYSQp0Hf2yZiQ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-57" value="Instructor adds another instructor to the table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-59" target="ScBxc4SeYSQp0Hf2yZiQ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-59" value="Customers should not be able to do this" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-61" target="ScBxc4SeYSQp0Hf2yZiQ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-61" target="ScBxc4SeYSQp0Hf2yZiQ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-61" value="Instructor can update their own information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-63" target="ScBxc4SeYSQp0Hf2yZiQ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-63" value="Instructor leaves and deletes their own details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-65" target="ScBxc4SeYSQp0Hf2yZiQ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-65" value="Instructor is removed from the table by another person for internal reasons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-67" value="Delete instructor record from database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-70" target="ScBxc4SeYSQp0Hf2yZiQ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-70" value="Class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-71" target="ScBxc4SeYSQp0Hf2yZiQ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-71" value="Instructor account is created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-72" target="ScBxc4SeYSQp0Hf2yZiQ-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-72" value="New class is created and added to DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-75" target="ScBxc4SeYSQp0Hf2yZiQ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-75" value="Customers can make bookings for x class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-77" target="ScBxc4SeYSQp0Hf2yZiQ-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-77" target="ScBxc4SeYSQp0Hf2yZiQ-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-77" value="Length and size and time of class can be adjusted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-79" value="Update this class record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ScBxc4SeYSQp0Hf2yZiQ-81" target="ScBxc4SeYSQp0Hf2yZiQ-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-81" value="Class record is deleted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScBxc4SeYSQp0Hf2yZiQ-83" value="Truncate all the bookings associated with this class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
