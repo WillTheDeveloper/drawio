@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T07:42:30.153Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.99 Safari/537.36" version="18.0.3" etag="ZC4WFbf5CYdXpla2G9HO" type="github"><diagram id="LBBc_h_d9dZWcIPcrcF8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-13T07:58:52.954Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.99 Safari/537.36" etag="SmousAhMYXJr0QF7mbu8" version="18.0.3" type="github">
+  <diagram id="LBBc_h_d9dZWcIPcrcF8" name="Page-1">
+    <mxGraphModel dx="1387" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-1" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-2" value="SYSTEM" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="30" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="30" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4obJtQdKTAtOtmLmpX8u-3" target="4obJtQdKTAtOtmLmpX8u-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-6" value="1. Finds a class that they want to do" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4obJtQdKTAtOtmLmpX8u-5">
+          <mxGeometry x="-0.102" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.067;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.033;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4obJtQdKTAtOtmLmpX8u-4" target="4obJtQdKTAtOtmLmpX8u-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="sourcePoint" />
+            <mxPoint x="430" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-8" value="2. System determines if its available for them to do" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4obJtQdKTAtOtmLmpX8u-7">
+          <mxGeometry x="0.1292" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.102;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.1;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4obJtQdKTAtOtmLmpX8u-3" target="4obJtQdKTAtOtmLmpX8u-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="280" as="sourcePoint" />
+            <mxPoint x="370" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-10" value="3. Submit their options" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4obJtQdKTAtOtmLmpX8u-9">
+          <mxGeometry x="-0.1005" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.133;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.177;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4obJtQdKTAtOtmLmpX8u-4" target="4obJtQdKTAtOtmLmpX8u-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="350" as="sourcePoint" />
+            <mxPoint x="410" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-12" value="4. Tutor reviews their options and determines if its viable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4obJtQdKTAtOtmLmpX8u-11">
+          <mxGeometry x="0.0477" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4obJtQdKTAtOtmLmpX8u-4" target="4obJtQdKTAtOtmLmpX8u-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="370" as="sourcePoint" />
+            <mxPoint x="400" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-14" value="4.1 Tutor updates options if nessasary" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4obJtQdKTAtOtmLmpX8u-13">
+          <mxGeometry x="0.0776" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.323;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.133;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4obJtQdKTAtOtmLmpX8u-3" target="4obJtQdKTAtOtmLmpX8u-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4obJtQdKTAtOtmLmpX8u-16" value="5. Student makes any changes if nessasary" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4obJtQdKTAtOtmLmpX8u-15">
+          <mxGeometry x="-0.0741" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
