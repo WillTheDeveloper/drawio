@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T16:23:56.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.162 Safari/537.36" version="18.0.1" etag="v9-I172H6MRIO1KyZ2hL" type="github"><diagram id="aMt_NwMW2OcGv3NkLEpC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-13T16:25:02.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.162 Safari/537.36" etag="K04RGbKTh1ULD6KjRpwz" version="18.0.1" type="github">
+  <diagram id="aMt_NwMW2OcGv3NkLEpC" name="Page-1">
+    <mxGraphModel dx="893" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3JB92nSkYvYfEdYjAyf--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3JB92nSkYvYfEdYjAyf--1" target="3JB92nSkYvYfEdYjAyf--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JB92nSkYvYfEdYjAyf--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3JB92nSkYvYfEdYjAyf--1" target="3JB92nSkYvYfEdYjAyf--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JB92nSkYvYfEdYjAyf--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3JB92nSkYvYfEdYjAyf--1" target="3JB92nSkYvYfEdYjAyf--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JB92nSkYvYfEdYjAyf--1" value="Head of department" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3JB92nSkYvYfEdYjAyf--2" value="View all the classes and the students within them" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3JB92nSkYvYfEdYjAyf--3" value="Add/remove staff or students to the system" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3JB92nSkYvYfEdYjAyf--6" value="Make adjustments to classes or information as required" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
