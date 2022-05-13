@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T07:40:13.045Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.99 Safari/537.36" version="18.0.3" etag="qgPCbrA6j-XC80PAxZWk" type="github"><diagram id="nLEWBp6OFUfQ7tzkVvmP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-13T07:41:38.627Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.99 Safari/537.36" etag="Hd9vhfgrid_-oGUgsicK" version="18.0.3" type="github">
+  <diagram id="nLEWBp6OFUfQ7tzkVvmP" name="Page-1">
+    <mxGraphModel dx="1387" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KwhGzKVHglVbqOVb5-kT-1" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwhGzKVHglVbqOVb5-kT-2" value="Tutor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwhGzKVHglVbqOVb5-kT-3" value="Head of department" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwhGzKVHglVbqOVb5-kT-4" value="View the classes available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
